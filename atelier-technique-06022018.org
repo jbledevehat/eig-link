@@ -96,17 +96,19 @@
   - Lesquels sont déjà utilisés ?
 
   - Est-ce qu’il vaut la peine d’en installer un ?
-    - pivotal tracker
-    - taiga.io
-    - trello.com
-    - google spreadsheet
-    - pipefy
-    - mantis
+    - pivotal tracker (gratuit max 3 users)
+    - taiga.io (gratuit max 3 users)
+    - trello.com (gratuit)
+    - pipefy (gratuit max 10 users)
+    - framaboard (gratuit)
+    - mantis (à installer)
     - redmine
     - confluence
     - kanboard
-    - phabricator
+    - phabricator/phacility ([[https://secure.phabricator.com/book/phabricator/article/installation_guide/][à installer]] et tester)
     - asana.com
+    - azendoo (gratuit 1 mois)
+    - google spreadsheet
     - gitlab.com ?
     - github.com ?
 
